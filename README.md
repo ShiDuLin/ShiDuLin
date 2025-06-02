@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 Recent major projects:[MemoMate](https://github.com/memo-mate/MemoMate/tree/master)、[position-research-agent](https://github.com/ShiDuLin/position-research-agent)
 
-- 💬 Welcome to discuss with me about Python, RPA and AI application development!
+- 💬 Welcome to discuss with me about Python, OCR, RPA and AI application development!
 
 - 🤔  I’m currently learning **AI[RAG + Agent]**
 
